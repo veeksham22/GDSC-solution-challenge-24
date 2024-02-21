@@ -37,6 +37,8 @@ AIoT is an effort to resolve this tension by using technologies like IoT and Mac
 Invasion by wild animals is a major issue in parts of Bihar, Chhattisgarh, and Uttarakhand, particularly those bordering forests. Farmers and the government alike are feeling the effects of this issue, as they cannot rely on the profits from high-yield crops like rice and wheat during non-monsoon months. There is an urgent need for an intelligent monitoring system with no human required to automatically distinguish the entering animal and inform the farmer.
 Recent years have seen a rise in the need for developing automation systems, particularly in the field of animal incursion detection. A protective mechanism is proposed that detects the arrival of wild animals into the field and generates a tolerable amount of discomfort for the animals. In this study, an ESP32 camera model for terrestrial animal identification is presented.
 
+![flow gdscs (1)](https://github.com/Ullasgs/GDSC-SOL-24/assets/118278305/3a937d22-9435-4ae8-8425-9d359947a5a5)
+
 
 FUTURE SCOPE:
 Test the solution in rural areas close to forests and improve on the model.
