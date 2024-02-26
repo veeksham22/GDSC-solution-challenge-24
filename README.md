@@ -1,4 +1,4 @@
-﻿#Enhancing Animal Intrusion detection for crop protection with ESP32 module
+﻿# Enhancing Animal Intrusion detection for crop protection with ESP32 module
 
 A project done by: 
 Veeksha M Rao
@@ -7,7 +7,7 @@ Swathi M Satish
 Shivani Shastry
 
 
-#PROJECT SETUP:
+# PROJECT SETUP:
 With our project, we aim to address UN’s SDG such as:
 Sustainable Goal 2: Zero Hunger by decreasing food losses and thus increasing food security. Sustainable agriculture is also achieved as we end the use of traditional methods such as electric fencing and chemicals.
 
@@ -23,13 +23,13 @@ Our project aims to take a step closer towards a sustainable future.
 
 
 
-#ABSTRACT
+# ABSTRACT
 The study proposes a model to address crop yield threats from animal invasion, focusing on the integration of IoT and machine learning methods. The model uses ESP32 camera  to analyze video clips and create an animal incursion detection system. This approach can help prevent accidents, trace animals, and theft, using efficient deep learning techniques. The integration of IoT and ML methods can address animal invasion threats to crop yield and farmer income. This method can classify animals based on their pictures, preventing accidents, tracing animals, and theft. Efficient deep-learning techniques can further enhance this system.
 
 
 
 
-#INTRODUCTION
+# INTRODUCTION
 Over 60% of the Indian population relies on farming for their livelihoods, with an anticipated 15-20% growth in food commodities over the next five years. However, many people working in this field lack the confidence they need to make it their primary source of income. Factors such as environment, seed selection, fertilizer inputs, irrigation, and other factors may account for the observed variation in crop yields from farm to farm. The incursion of animals into agricultural fields is a major cause of crop failure, and farmers lose a lot of money, especially in hill station areas and those close to forests.
 AIoT is an effort to resolve this tension by using technologies like IoT and Machine Learning. Machine learning allows machines to teach themselves via experience rather than being explicitly taught. The primary goal is to let computers learn and improve themselves with little human intervention or oversight.
 Invasion by wild animals is a major issue in parts of Bihar, Chhattisgarh, and Uttarakhand, particularly those bordering forests. Farmers and the government alike are feeling the effects of this issue, as they cannot rely on the profits from high-yield crops like rice and wheat during non-monsoon months. There is an urgent need for an intelligent monitoring system with no human required to automatically distinguish the entering animal and inform the farmer.
