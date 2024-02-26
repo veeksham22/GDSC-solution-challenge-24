@@ -25,7 +25,7 @@ Our project aims to take a step closer towards a sustainable future. <br>
 
 
 
-## ABSTRACT
+## ABSTRACT:
 The study proposes a model to address crop yield threats from animal invasion, focusing on the integration of IoT and machine learning methods. The model uses ESP32 camera  to analyze video clips and create an animal incursion detection system. This approach can help prevent accidents, trace animals, and theft, using efficient deep learning techniques. The integration of IoT and ML methods can address animal invasion threats to crop yield and farmer income. This method can classify animals based on their pictures, preventing accidents, tracing animals, and theft. Efficient deep-learning techniques can further enhance this system.<br>
 
 
