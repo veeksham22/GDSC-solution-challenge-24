@@ -23,9 +23,6 @@ Our project aims to take a step closer towards a sustainable future.
 
 
 
-
-
-
 ABSTRACT
 The study proposes a model to address crop yield threats from animal invasion, focusing on the integration of IoT and machine learning methods. The model uses ESP32 camera  to analyze video clips and create an animal incursion detection system. This approach can help prevent accidents, trace animals, and theft, using efficient deep learning techniques. The integration of IoT and ML methods can address animal invasion threats to crop yield and farmer income. This method can classify animals based on their pictures, preventing accidents, tracing animals, and theft. Efficient deep-learning techniques can further enhance this system.
 
@@ -39,17 +36,7 @@ Invasion by wild animals is a major issue in parts of Bihar, Chhattisgarh, and U
 Recent years have seen a rise in the need for developing automation systems, particularly in the field of animal incursion detection. A protective mechanism is proposed that detects the arrival of wild animals into the field and generates a tolerable amount of discomfort for the animals. In this study, an ESP32 camera model for terrestrial animal identification is presented.
 
 
-
-
-Instructions to run the code:
-1) download the zip file into the system
-2) upload it in the library manager of Arduino IDE
-3) Go to library and scroll down to find your newly uploaded library file and click on example sketches from the same
-4) click on esp32>esp32_cam.io and open the code file.
-5) select the device type connected and comment out the rest from the code and run it
-6) open serial monitor give the baud value and see the output while the camera is pointed at the required object for detection
-For this attached file only step 5 and 6 are sufficient.
-
+![flow gdscs (2)](https://github.com/Ullasgs/GDSC-SOL-24/assets/118278305/989f35da-eae1-41da-9fa8-735e0146016d)
 
   
 
