@@ -1,7 +1,7 @@
 ﻿# Enhancing Animal Intrusion detection for crop protection with ESP32 module
 
 ### These are the members of the team: <br>
-&emsp; Veeksha M Rao <br>
+&emsp; Veeksha M  <br>
 &emsp; Ullas Gowda S <br>
 &emsp; Swathi M Satish <br>
 &emsp; Shivani Shastry <br>
