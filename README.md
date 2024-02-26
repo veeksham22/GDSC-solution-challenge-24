@@ -1,25 +1,27 @@
 ﻿# Enhancing Animal Intrusion detection for crop protection with ESP32 module
 
-### A project done by: <br>
-Veeksha M Rao <br>
-Ullas Gowda S <br>
-Swathi M Satish <br>
-Shivani Shastry <br>
+### These are the members of the team: <br>
+&emsp; Veeksha M Rao <br>
+&emsp; Ullas Gowda S <br>
+&emsp; Swathi M Satish <br>
+&emsp; Shivani Shastry <br>
 
 
 ## PROJECT SETUP:
 With our project, we aim to address UN’s SDG such as: <br>
-Sustainable Goal 2: Zero Hunger by decreasing food losses and thus increasing food security. Sustainable agriculture is also achieved as we end the use of traditional methods such as electric fencing and chemicals. <br>
+#### SDG 2: Zero Hunger  <br>
+Zero Hunger by decreasing food losses and thus increasing food security. Sustainable agriculture is also achieved as we end the use of traditional methods such as electric fencing and chemicals. <br>
 
 
-SDG 12:Responsible consumption and production: Better quality of life is achieved for the farmers and the other parties involved. <br>
+#### SDG 12: Responsible consumption and production <br>
+Better quality of life is achieved for the farmers and the other parties involved. <br>
 
 
-SDG 15:Life on land: 
+#### SDG 15: Life on land  <br>
 Wild animals are harmed due to the use of chemicals and electric fencing. Life on land can now be protected by using ESP32. Biodiversity is hence protected. <br>
 
 
-Our project aims to take a step closer towards a sustainable future.<br>
+Our project aims to take a step closer towards a sustainable future. <br>
 
 
 
